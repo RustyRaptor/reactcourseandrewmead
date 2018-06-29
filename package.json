@@ -1,0 +1,16 @@
+{
+    "name": "reactjs1",
+    "version": "0.0.1",
+    "description": "Test program",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Ziad",
+    "license": "ISC",
+    "dependencies": {
+        "create-react-class": "^15.6.3",
+        "express": "^4.16.3",
+        "react-dom": "^16.4.1"
+    }
+}
